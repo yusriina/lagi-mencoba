@@ -1,0 +1,14 @@
+#box1{
+    width: 400px;
+    height:600px;
+  background-color: rgb(136, 99, 43);
+  align-content: center;
+  font-family: 'Fraunces', serif;
+}
+.op{
+   background-color: black;
+}
+.o{
+   padding-top: 200px;
+    color: aliceblue;
+}
